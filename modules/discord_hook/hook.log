@@ -1,29 +1,0 @@
-[00:00:00.001][PID37636] Initializing hook with binary path \\?\C:\Users\ACER\AppData\Roaming\discord\0.0.306\modules\discord_hook\04cab10d14
-[00:00:00.422][PID37636] Log source connected [PID 4160]
-[00:00:00.006][PID 4160] hook_thread started
-[00:00:00.006][PID 4160] Process name: C:\Users\ACER\AppData\Local\butt-0.1.18\butt.exe
-[00:00:00.429][PID37636] InjectLibraryNormal: process has been alive for 3.83786e+08 ms
-
-
-[00:00:00.940][PID37636] CMipMap vtable for CResource 00007FFDE4F7CB40
-
-CMipMap::Clone 00007FFDE4EEECE0
-
-cmipmap_ctor: 68816
-
-
-[00:00:00.946][PID37636] CMipMap vtable for CResource 6BEB26F8
-
-CMipMap::Clone 6BFA31C0
-
-cmipmap_ctor: 356192
-
-
-[00:00:03.098][PID37636] Log source connected [PID37636]
-[00:00:04.338][PID37636] Log source connected [PID37636]
-[00:00:36.326][PID37636] InjectLibraryNormal: process has been alive for 7.18751e+07 ms
-
-
-[00:00:36.327][PID37636] Log source connected [PID30108]
-[00:00:00.009][PID30108] hook_thread started
-[00:00:00.009][PID30108] Process name: C:\WINDOWS\system32\cmd.exe
