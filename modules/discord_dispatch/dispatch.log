@@ -1,0 +1,6 @@
+[2020-02-26][18:51:45][DEBUG][discord_dispatch::application_manager:191] App started. version="1.10.5"
+[2020-02-26][18:51:45][DEBUG][discord_dispatch::application_manager:970] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\ACER\\AppData\\Local\\DiscordGames" }
+[2020-02-26][18:51:45][WARN][discord_dispatch::application_manager:974] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\ACER\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
+[2020-03-24][16:03:11][DEBUG][discord_dispatch::application_manager:191] App started. version="1.10.5"
+[2020-03-24][16:03:11][DEBUG][discord_dispatch::application_manager:970] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\ACER\\AppData\\Local\\DiscordGames" }
+[2020-03-24][16:03:11][WARN][discord_dispatch::application_manager:974] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\ACER\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "The system cannot find the path specified." }
